@@ -25,3 +25,6 @@ Thumbs.db
 *.coverage
 .coverage.*
 .cache/
+
+# Файлы CSV
+*.csv
