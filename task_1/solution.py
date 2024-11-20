@@ -42,4 +42,4 @@ def sum_two(a: int, b: int) -> int:
 
 if __name__ == '__main__':
     print(sum_two(1, 2))
-    # print(sum_two(1, 2.4))
+    print(sum_two(1, 2.4))
