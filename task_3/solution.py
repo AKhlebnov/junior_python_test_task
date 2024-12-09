@@ -5,7 +5,7 @@
 
 
 def get_common_intervals(
-    pupil: list[tuple[int, int]], 
+    pupil: list[tuple[int, int]],
     tutor: list[tuple[int, int]]
 ) -> list[tuple[int, int]]:
     """
@@ -29,7 +29,7 @@ def get_common_intervals(
 
 
 def filter_intervals_by_lesson(
-    people: list[tuple[int, int]], 
+    people: list[tuple[int, int]],
     lesson: list[int]
 ) -> list[tuple[int, int]]:
     """
